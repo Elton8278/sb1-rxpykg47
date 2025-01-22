@@ -1,0 +1,10 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "dashboard": "Dashboard",
+  "support": "Support",
+  "logout": "Logout",
+  "products": "Products",
+  "orders": "Orders",
+  "disputes": "Disputes"
+}
